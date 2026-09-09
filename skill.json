@@ -1,0 +1,13 @@
+{
+  "name": "genpark-slab-buddy-allocator-memory-pool-skill",
+  "version": "1.0.0",
+  "description": "High-performance hybrid memory manager combining binary buddy system allocation with coalescing and power-of-two block splitting.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "memory-allocator",
+    "buddy-system",
+    "slab-allocator",
+    "kernel-memory"
+  ]
+}
